@@ -3,7 +3,7 @@ import './style.css'
 
 function App(){
         const [number, setNumber] = useState(0)
-    return <div>
+    return <div className="all">
         <div className="hadder">
         <h2>Simple Counter Tool</h2>
         </div>
