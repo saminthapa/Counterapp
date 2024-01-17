@@ -1,13 +1,33 @@
+div{
+    text-align: center;
+}
+
 .button{
-    background-color: rgb(255, 0, 179);
+    background-color: rgb(103, 233, 22);
     color: rgb(255, 255, 255);
     padding: 15px;
-border-radius: 100px;
+    border-radius: 15px;
 text-align:center;
 font-size: medium;
 margin: 10px;
 }
-
-div{
-    text-align: center;
+.button-r{
+    background-color: rgb(247, 24, 24);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    border-radius: 15px;
+text-align:center;
+font-size: medium;
+margin: 10px;
+}
+span{
+    font-size: 25px;
+    color: brown;
+    
+}
+.hadder{
+    padding: 7px;
+    border-radius: 15px;
+    color: aqua;
+    background-color: chocolate;
 }
