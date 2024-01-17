@@ -1,7 +1,10 @@
 div{
     text-align: center;
+    
 }
-
+body{
+    background-color: rgb(214, 181, 138);
+}
 .button{
     background-color: rgb(103, 233, 22);
     color: rgb(255, 255, 255);
@@ -26,6 +29,7 @@ span{
     
 }
 .hadder{
+    margin-top: 30px;
     padding: 7px;
     border-radius: 15px;
     color: aqua;
